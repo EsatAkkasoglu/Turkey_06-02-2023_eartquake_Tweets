@@ -35,3 +35,5 @@ Furthermore, the dataset includes three additional sections, each providing spec
 3. **📜 Individual Tweet Details**: A list of individual tweets, including their content, author details, and engagement metrics. Each individual tweet can provide insight into Twitter users' emotions and reactions to the earthquake event (with appropriate analysis).
 
 In summary, this dataset provides a valuable resource for understanding the real-time reaction of Twitter users to the earthquake event that occurred in Turkey on February 6, 2023, and for conducting sentiment analysis and engagement metrics analysis. Researchers and data analysts interested in social media analytics, disaster response, and sentiment monitoring will find this dataset useful for their analysis.
+
+Check it out here: [Twitter Earthquake Data Set](https://www.kaggle.com/datasets/esatakkasoglu/turkey-06-02-2023-eartquake-tweets)
