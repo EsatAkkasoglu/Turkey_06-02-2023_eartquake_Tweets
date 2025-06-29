@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+}
+
+.controls {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.charts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+}
+
+.chart-container {
+    width: 600px;
+    max-width: 100%;
+}

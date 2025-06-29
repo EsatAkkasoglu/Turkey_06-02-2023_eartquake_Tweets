@@ -37,3 +37,19 @@ Furthermore, the dataset includes three additional sections, each providing spec
 In summary, this dataset provides a valuable resource for understanding the real-time reaction of Twitter users to the earthquake event that occurred in Turkey on February 6, 2023, and for conducting sentiment analysis and engagement metrics analysis. Researchers and data analysts interested in social media analytics, disaster response, and sentiment monitoring will find this dataset useful for their analysis.
 
 Check it out here: [Twitter Earthquake Data Set](https://www.kaggle.com/datasets/esatakkasoglu/turkey-06-02-2023-eartquake-tweets)
+
+## 📊 Interactive Visualization
+
+To explore the dataset in a modern interactive way, open `index.html` in your browser. The page allows you to:
+
+- Select a day of tweets to analyze.
+- View tweet volume by hour using an interactive line chart.
+- Examine the top hashtags in a bar chart.
+
+The visualizations are built with **D3.js** and **Chart.js**. Because modern browsers restrict loading local files, serve the repository with a simple static server and then open the page. For example:
+
+```bash
+python3 -m http.server 8000
+```
+
+Then visit `http://localhost:8000/index.html` in your browser and start exploring.
